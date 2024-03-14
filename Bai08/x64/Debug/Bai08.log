@@ -1,0 +1,4 @@
+﻿  Bai08.cpp
+E:\CODE UIT\23521587_BT02\Bai08\Bai08.cpp(138,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\CODE UIT\23521587_BT02\Bai08\Bai08.cpp(139,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Bai08.vcxproj -> E:\CODE UIT\23521587_BT02\x64\Debug\Bai08.exe
